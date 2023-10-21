@@ -1,0 +1,14 @@
+task-management-frontend/
+  src/
+    components/
+      Auth/
+        Register.js
+        Login.js
+        Logout.js
+      Dashboard.js
+      TaskCreate.js
+      TaskList.js
+      TaskEdit.js
+      TaskDelete.js
+    App.js
+    index.js
